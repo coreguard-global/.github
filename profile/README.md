@@ -35,9 +35,9 @@ Live anchor: **Core Mainnet (chainId 1116) — VERIFIED ANCHOR INTEGRITY**.
 - **AgentProof** — declared, signer-bound actor provenance (never a behavioral guess).
 - **DDE/1** — execution/acceptance dispute boundary with deterministic, offline-runnable evidence packages.
 
-Run it: [Live playground](https://eslam-x.github.io/coreguard/PLAYGROUND.html) ·
+Run it: [Live playground](https://coreguard-global.github.io/CoreGuard/PLAYGROUND.html) ·
 [Product catalog](https://github.com/coreguard-global/CoreGuard/blob/main/docs/ALL-IN-ONE-CATALOG.md) ·
-[Bilingual brand kit](https://eslam-x.github.io/coreguard/BRAND.html).
+[Bilingual brand kit](https://coreguard-global.github.io/CoreGuard/BRAND.html).
 
 ## For the builders and the gatekeepers
 
