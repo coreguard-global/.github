@@ -34,7 +34,7 @@ CoreGuard tells you whether execution **conformed to what was authorized** — n
 | Network | Entry | Status |
 | --- | --- | --- |
 | **Core DAO** | Per-network commitment anchor on Core (chainId 1116) · `0x037dF08F2d43c5D03759279Fe35664f6AFf9EA6E` | **LIVE** |
-| **Stellar** | Soroban anchors · Freighter & Soroban-DEX gating | `DRY_RUN / PLAN_ONLY` |
+| **Stellar** | Soroban anchors · Freighter wallet · Soroban-DEX gating · Testnet LIVE | `TESTNET LIVE` |
 | **Pi Network** | Browser DApps · Pi Wallet · Pi Commerce shield | `DRY_RUN / PLAN_ONLY` |
 
 ## ⚙️ What CoreGuard builds
