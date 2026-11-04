@@ -1,59 +1,77 @@
-# CoreGuard Global
-
 <div align="center">
 
 <a href="https://github.com/coreguard-global/CoreGuard">
-  <img src="https://raw.githubusercontent.com/coreguard-global/CoreGuard/main/assets/coreguard-logo-transparent.png" width="180" alt="CoreGuard" />
+  <img src="https://raw.githubusercontent.com/coreguard-global/CoreGuard/main/assets/coreguard-logo-transparent.png" width="170" alt="CoreGuard">
 </a>
 
-### VERIFY • PROTECT • EMPOWER
+# CoreGuard
 
-**The verifiable execution truth layer + fail-closed agent economy.**
+**VERIFY&nbsp;•&nbsp;PROTECT&nbsp;•&nbsp;EMPOWER**
 
-For Bitcoin DeFi — across **Core DAO · Stellar · Pi Network**, with one ladder,
-seven rungs, pinned per ecosystem.
+**The verifiable execution truth layer + fail-closed agent economy — for Bitcoin DeFi.**
 
-CoreGuard doesn't tell you whether a transaction looks safe.
-**It produces independently verifiable evidence of whether execution conformed to
-what was authorized.** Deterministic. Replayable by anyone. **`UNKNOWN` stays HELD.**
+*<sub>طبقة الحقيقة التنفيذية القابلة للتحقق لتمويل البيتكوين — ‏الحكم لا يستقر إلا حيث تثبتُه الأدلة</sub>*
 
-Live anchor: **Core Mainnet (chainId 1116) — VERIFIED ANCHOR INTEGRITY**.
+CoreGuard tells you whether execution **conformed to what was authorized** — not merely why it looked plausible. Evidence is deterministic, independently replayable by anyone and audited on every push; **`UNKNOWN` stays HELD** until evidence closes it.
 
-## The Trinity
+<br>
+
+| | |
+|---|---|
+| 🔗 | [![Website](https://img.shields.io/badge/website-coreguard--global.github.io%2FCoreGuard-FF8A00?style=flat-square&labelColor=0B0F14)](https://coreguard-global.github.io/CoreGuard/) [![Core Mainnet](https://img.shields.io/badge/Core%20Mainnet-anchor%20·%20chainId%201116-FF8A00?style=flat-square&labelColor=0B0F14)](https://coreguard-global.github.io/CoreGuard/PRODUCTS.html) [![Trust gate](https://img.shields.io/badge/trust%20gate-live%20anchor%20·%20independent--verify%20ladder-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/TRUST.md) |
+| 📊 | [![Tests](https://img.shields.io/badge/tests-1412%2F1412%20·%20machine--pinned-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md) [![Boundary](https://img.shields.io/badge/boundary-1009%20files%20·%200%20violations-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md) [![Benchmark](https://img.shields.io/badge/benchmark%2010k-0%20false%20accept%20·%200%20false%20reject-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md) [![Mutation lab](https://img.shields.io/badge/mutation%20lab-1000%2F1000%20refused-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md) |
+
+<br>
+
+**[▶ Live playground](https://coreguard-global.github.io/CoreGuard/PLAYGROUND.html) · [🛍 Product catalog](https://coreguard-global.github.io/CoreGuard/PRODUCTS.html) · [🛡 Bilingual brand kit](https://coreguard-global.github.io/CoreGuard/BRAND.html) · [📄 One source of truth](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md)**
+
+</div>
+
+---
+
+## 🌐 The Trinity — one ladder, seven rungs, pinned per ecosystem
 
 | Network | Entry | Status |
 | --- | --- | --- |
-| **Core DAO** | Per-network commitment anchor on Core — live on chainId 1116 | `LIVE` |
+| **Core DAO** | Per-network commitment anchor on Core (chainId 1116) · `0x037dF08F2d43c5D03759279Fe35664f6AFf9EA6E` | **LIVE** |
 | **Stellar** | Soroban anchors · Freighter & Soroban-DEX gating | `DRY_RUN / PLAN_ONLY` |
 | **Pi Network** | Browser DApps · Pi Wallet · Pi Commerce shield | `DRY_RUN / PLAN_ONLY` |
 
-## What CoreGuard builds
+## ⚙️ What CoreGuard builds
 
-- **CGEP/1** — execution truth receipts: intent → policy → commitment → receipt → independent verifier → anchor.
-- **Execution Firewall** — wrap any action (swap, lend, borrow, bridge, vote, agent proposal) with ALLOW / DENY / HOLD + verifiable commitment.
-- **x402 reserve-before-sign** — payment-gated, escrow, deterministic replay, on-chain commission.
-- **AgentProof** — declared, signer-bound actor provenance (never a behavioral guess).
-- **DDE/1** — execution/acceptance dispute boundary with deterministic, offline-runnable evidence packages.
+| Surface | What it delivers |
+| --- | --- |
+| **CGEP/1 — execution truth receipts** | intent → policy → commitment → receipt → independent verifier → anchor |
+| **Execution Firewall** | wrap any action (swap · lend · borrow · bridge · vote · agent proposal) with **ALLOW / DENY / HOLD** + verifiable commitment |
+| **x402 reserve-before-sign** | payment-gated, escrowed, deterministic replay, on-chain commission |
+| **AgentProof** | declared, signer-bound actor provenance — never a behavioral guess |
+| **DDE/1 — dispute boundary** | execution vs acceptance disputes with deterministic, offline-runnable evidence packages |
 
-Run it: [Live playground](https://coreguard-global.github.io/CoreGuard/PLAYGROUND.html) ·
-[Product catalog](https://github.com/coreguard-global/CoreGuard/blob/main/docs/ALL-IN-ONE-CATALOG.md) ·
-[Bilingual brand kit](https://coreguard-global.github.io/CoreGuard/BRAND.html).
+## 📐 The trust gate · legal node · the lab · the bot — بوابة الثقة والعقد القانوني
 
-## For the builders and the gatekeepers
+| Artifact | Honest status | Why it matters |
+| --- | --- | --- |
+| [docs/TRUST.md](https://github.com/coreguard-global/CoreGuard/blob/main/docs/TRUST.md) | Investor portal — the live anchor, the seven-rung independent-verify ladder, the evidence matrix, and **what we never claim** | واجهة المستثمر الغيرة |
+| [docs/VERIFY-BOT.md](https://github.com/coreguard-global/CoreGuard/blob/main/docs/VERIFY-BOT.md) | `PLAN_ONLY` — Telegram/Discord verification-bot specification, not deployed | مواصفة صادقة بلا ادعاء بتشغيل |
+| [docs/LABS.md](https://github.com/coreguard-global/CoreGuard/blob/main/docs/LABS.md) | `DRAFT` — CoreGuard Labs evidence-lab operating plan | مخبر أدلة مستقبلي بحالة شفافة |
+| [LICENSE.md](https://github.com/coreguard-global/CoreGuard/blob/main/LICENSE.md) | MIT code · `© 2026 coreguard-global · EslaM-X` — the shield & wordmark are protected | العقد القانوني يحمي الهوية |
 
-- Protocol teams → ecosystem adoption lanes (Core Connect · Core Commit · Ignition).
-- Wallets / DEXs / AI-agent platforms → one-line integration surface.
-- Auditors → independent verification artifacts that can be replayed.
+## 🚫 What we never claim
 
-## Engage
+**`UNKNOWN` stays HELD.** Every number above is CI-measured on every push and pinned as a re-derivable artifact. Stellar and Pi networks sit at `DRY_RUN`/`PLAN_ONLY` by design — **no settlement authority for anyone, including the owner.** A claim without a replayable artifact is a red flag, not a feature.
 
-CoreGuard Global is open to:
+## 🚪 Engage
 
 1. **Integration pilots** — put the Execution Firewall in front of your real action flow.
 2. **Grant-funded builds** — Core DAO · Stellar · Pi Network program participation.
-3. **Strategic partnerships** — wallets, DEXs, exchanges, agents, auditors, insurers.
+3. **Strategic partnerships** — wallets · DEXs · exchanges · agents · auditors · insurers.
 
-Founder: [EslaM-X](https://github.com/EslaM-X) ·
-GitHub: [github.com/coreguard-global](https://github.com/coreguard-global) ·
-LinkedIn: [linkedin.com/company/coreguard-global](https://www.linkedin.com/company/coreguard-global) ·
-X: [twitter.com/CoreGuardGlobal](https://twitter.com/CoreGuardGlobal)
+<div align="center">
+
+**Founder** [EslaM-X](https://github.com/EslaM-X) · **GitHub** [coreguard-global](https://github.com/coreguard-global) · **LinkedIn** [coreguard-global](https://www.linkedin.com/company/coreguard-global) · **X** [CoreGuardGlobal](https://twitter.com/CoreGuardGlobal)
+
+<br>
+
+<sub>🛡 CoreGuard — VERIFY • PROTECT • EMPOWER · Core Orange `#FF8A00` · Deep Core `#0B0F14` · © 2026 coreguard-global · EslaM-X</sub>
+
+</div>
