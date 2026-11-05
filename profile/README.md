@@ -34,7 +34,7 @@ CoreGuard tells you whether execution **conformed to what was authorized** — n
 | Network | Entry | Status |
 | --- | --- | --- |
 | **Core DAO** | Per-network commitment anchor on Core (chainId 1116) · `0x037dF08F2d43c5D03759279Fe35664f6AFf9EA6E` | **LIVE** |
-| **Stellar** | Soroban anchors · Freighter wallet · Soroban-DEX gating · **Mainnet LIVE** ✅ | `MAINNET LIVE` |
+| **Stellar** | Soroban anchor contract MAINNET DEPLOYED (`CCKA2GYVILX7YZVSXGVIHOPNLTRBBF2SSWKBTQBIE7M67N5N2QMMXPSP`, stellar.expert-listed) · first mainnet tx verified (`0.1 XLM → SDF`, ledger 65,308,317) · agent gate + REAL-BOOK DEX gate + shield arms EXECUTED with committed artifacts | `MAINNET LIVE (Soroban)` |
 | **Pi Network** | Browser DApps · Pi Wallet · Pi Commerce shield | `DRY_RUN / PLAN_ONLY` |
 
 ## ⚙️ What CoreGuard builds
@@ -58,7 +58,7 @@ CoreGuard tells you whether execution **conformed to what was authorized** — n
 
 ## 🚫 What we never claim
 
-**`UNKNOWN` stays HELD.** Every number above is CI-measured on every push and pinned as a re-derivable artifact. Stellar and Pi networks sit at `DRY_RUN`/`PLAN_ONLY` by design — **no settlement authority for anyone, including the owner.** A claim without a replayable artifact is a red flag, not a feature.
+**`UNKNOWN` stays HELD.** Every number above is CI-measured on every push and pinned as a re-derivable artifact. **Stellar is mainnet-verified and executed**: the Soroban anchor contract is deployed on Stellar mainnet, the first payment tx is ledger-verified, and the agent/DEX/shield gate surfaces carry committed execution artifacts — while every SIGNED money-moving sweep stays credential-gated by design. **Pi** sits at `DRY_RUN`/`PLAN_ONLY` by design. **No settlement authority for anyone, including the owner.** A claim without a replayable artifact is a red flag, not a feature.
 
 ## 🚪 Engage
 

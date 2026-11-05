@@ -14,13 +14,14 @@
 
 | Repo | What it is | Live surface |
 | --- | --- | --- |
-| **[CoreGuard](https://github.com/coreguard-global/CoreGuard)** | The verifiable execution truth layer + fail-closed agent economy · CI-measured (`1412/1412` · 1009 files · 0 violations) | [coreguard-global.github.io/CoreGuard](https://coreguard-global.github.io/CoreGuard/) · [▶ Playground](https://coreguard-global.github.io/CoreGuard/PLAYGROUND.html) · [🛍 Products](https://coreguard-global.github.io/CoreGuard/PRODUCTS.html) · [🛡 Brand](https://coreguard-global.github.io/CoreGuard/BRAND.html) |
+| **[CoreGuard](https://github.com/coreguard-global/CoreGuard)** | The verifiable execution truth layer + fail-closed agent economy · CI-measured (`1427/1427` · 1038 files · 0 violations) · **Stellar mainnet: Soroban anchor DEPLOYED (`CCKA2GYVILX7YZVSXGVIHOPNLTRBBF2SSWKBTQBIE7M67N5N2QMMXPSP`) · first tx verified (ledger 65,308,317) · agent/DEX/shield gates EXECUTED with committed artifacts** | [coreguard-global.github.io/CoreGuard](https://coreguard-global.github.io/CoreGuard/) · [▶ Playground](https://coreguard-global.github.io/CoreGuard/PLAYGROUND.html) · [🛍 Products](https://coreguard-global.github.io/CoreGuard/PRODUCTS.html) · [🛡 Brand](https://coreguard-global.github.io/CoreGuard/BRAND.html) |
 | **`.github` (this repo)** | Organization profile + org-wide defaults | [Profile](https://github.com/coreguard-global#readme) |
 
 ## 🔎 Start here
 
 - **[STATUS.md — one source of truth](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md)** — every metric machine-measured & pinned, never estimated.
 - **[TRUST.md — investor trust gate](https://github.com/coreguard-global/CoreGuard/blob/main/docs/TRUST.md)** — the live Core Mainnet anchor (chainId 1116), the independent-verify ladder, and what we never claim.
+- **Stellar mainnet truth row** — Soroban anchor contract deployed (`CCKA2GYVILX7YZVSXGVIHOPNLTRBBF2SSWKBTQBIE7M67N5N2QMMXPSP`), first tx verified (ledger 65,308,317), and the gate surfaces executed with digest-checked artifacts under `docs/evidence/` in the CoreGuard repo.
 - **[LICENSE.md — the legal node](https://github.com/coreguard-global/CoreGuard/blob/main/LICENSE.md)** — MIT code · protected shield & wordmark (`© 2026 coreguard-global · EslaM-X`).
 
 ## 🤝 Engage
