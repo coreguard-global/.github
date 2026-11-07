@@ -15,6 +15,7 @@
 | Repo | What it is | Live surface |
 | --- | --- | --- |
 | **[CoreGuard](https://github.com/coreguard-global/CoreGuard)** | The verifiable execution truth layer + fail-closed agent economy · CI-measured (`1436/1436` · 1045 files · 0 violations) · **Stellar mainnet: Soroban anchor DEPLOYED (`CCKA2GYVILX7YZVSXGVIHOPNLTRBBF2SSWKBTQBIE7M67N5N2QMMXPSP`) · first commitment-anchor CALL INVOKED (owner-authorized `commit(proofId, commitment)`, tx `69044807410f65027c1227f4e525ad83f23a6cb1a2bb79790d82849c5dbc9fec`, ledger 65,337,373) · **first SIGNED funded DEX swap EXECUTED on the real mainnet order book (owner-authorized `pathPaymentStrictSend`, tx `ac2a7990b3387aab96b197c0c921d57756bd25d65ad0e75b93561ded640b9097`, ledger 65,338,112; `4.0598146 XLM → 0.6306239 USDC`)** · agent/DEX/shield gates EXECUTED with committed artifacts** | [coreguard-global.github.io/CoreGuard](https://coreguard-global.github.io/CoreGuard/) · [▶ Playground](https://coreguard-global.github.io/CoreGuard/PLAYGROUND.html) · [🛍 Products](https://coreguard-global.github.io/CoreGuard/PRODUCTS.html) · [🛡 Brand](https://coreguard-global.github.io/CoreGuard/BRAND.html) |
+| **📦 [@coreguard-global/coreguard-badge](https://github.com/orgs/coreguard-global/packages)** | CG-BDG/1 self-verifying badge engine (`CoreGuard/packages/badge`) — derived artwork, `verifyBadge()` re-derives every digest, zero deps · npmjs.com publication stays double-gated pending `NPM_TOKEN` | [GitHub Packages tab](https://github.com/orgs/coreguard-global/packages) · [Release v1.1.0](https://github.com/coreguard-global/CoreGuard/releases/tag/v1.1.0) |
 | **`.github` (this repo)** | Organization profile + org-wide defaults | [Profile](https://github.com/coreguard-global#readme) |
 
 ## 🔎 Start here
@@ -28,6 +29,14 @@
 ## 📣 Announcements
 
 - **[#3 — ⭐ Stellar Soroban mainnet: anchor DEPLOYED · commit call INVOKED · first signed funded swap CONFIRMED](https://github.com/coreguard-global/.github/discussions/3)** — the executed-truth announcement (Arabic-first + EN mirror) in [Discussions](https://github.com/coreguard-global/.github/discussions); the five-runner offline self-verify walkthrough is its mentor comment.
+
+## 🪞 The Stellar honesty mirror · مرآة صدق ستيلار
+
+**Stellar honesty mirror (what is NOT claimed):** signed mainnet funded transfers
+beyond the ONE owner-authorized anchor commit CALL and the ONE owner-authorized
+gated swap — credential-gated owner decisions · npm SDK publication — double-gated
+pending `NPM_TOKEN` · SaaS live payment — owner rails pending · revenue, customers
+or partnerships — none.
 
 ## 🤝 Engage
 
