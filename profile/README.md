@@ -37,6 +37,28 @@ CoreGuard tells you whether execution **conformed to what was authorized** — n
 | **Stellar** | Soroban anchor contract MAINNET DEPLOYED (`CCKA2GYVILX7YZVSXGVIHOPNLTRBBF2SSWKBTQBIE7M67N5N2QMMXPSP`, stellar.expert-listed) · first commitment-anchor CALL INVOKED (owner-authorized `commit(proofId, commitment)`, tx `69044807410f65027c1227f4e525ad83f23a6cb1a2bb79790d82849c5dbc9fec`, ledger 65,337,373) · **first SIGNED funded DEX swap EXECUTED on the real mainnet order book (owner-authorized `pathPaymentStrictSend`, tx `ac2a7990b3387aab96b197c0c921d57756bd25d65ad0e75b93561ded640b9097`, ledger 65,338,112; `4.0598146 XLM → 0.6306239 USDC`)** · agent gate + REAL-BOOK DEX gate + shield arms EXECUTED with committed artifacts | `MAINNET LIVE (Soroban)` |
 | **Pi Network** | Browser DApps · Pi Wallet · Pi Commerce shield | `DRY_RUN / PLAN_ONLY` |
 
+## ⭐ Stellar mainnet — verified & executed · شبكة ستيلار الرئيسية — موثّقة ثم منفّذة
+
+**Stellar is not a plan — it is executed.** The same execution-truth stack as Core, live on the Stellar public mainnet (Horizon `https://horizon.stellar.org`) — every row below pinned to a committed, digest-checked artifact in [`CoreGuard/docs/evidence/`](https://github.com/coreguard-global/CoreGuard/tree/main/docs/evidence):
+
+| Stellar on-chain truth | Value |
+| --- | --- |
+| **Mainnet wallet — live** | `GDJ3CRNLNDZ4AVWGPUG7DBC5BIAGMIONOONZGB5FSYAY44ZHOIPRKY7U` — live Horizon account · first tx `0.1 XLM → SDF` at ledger **65,308,317** |
+| **Soroban anchor — MAINNET DEPLOYED** | `CCKA2GYVILX7YZVSXGVIHOPNLTRBBF2SSWKBTQBIE7M67N5N2QMMXPSP` — stellar.expert-listed · creator = the CoreGuard wallet · deployment untouched, no re-deploy |
+| **Anchor CALL — INVOKED** | owner-authorized `commit(proofId, commitment)` — tx `69044807410f65027c1227f4e525ad83f23a6cb1a2bb79790d82849c5dbc9fec` · ledger **65,337,373** · on-chain read-back `{hash, seq}` exact |
+| **First SIGNED FUNDED swap — CONFIRMED** | DEX-GATE/1 preflight VERIFIED → owner-signed `pathPaymentStrictSend` on the REAL mainnet order book — tx `ac2a7990b3387aab96b197c0c921d57756bd25d65ad0e75b93561ded640b9097` · ledger **65,338,112** (trustline ledger 65,338,111) · `4.0598146 XLM → 0.6306239 USDC` (0.1553331 USDC/XLM) · destMin `0.6011661` cleared · evidence digest `sha256:837d0639…ac2c` |
+
+**Executed gate surfaces:** **STELLAR-AGENT/1** AI Agent Payment Gate (VERIFIED / REJECTED / HELD · never auto-pay) · **DEX-GATE/1** real-book gate (five verdicts against the live XLM/USDC mainnet order book) · **universal DApp-shield arms** (2 ALLOW · 2 REQUIRE_REVIEW · 1 DENY · 1 REFUSED).
+
+| Stellar products & services | Honest status |
+| --- | --- |
+| `packages/stellar` — intent → policy → gate engine (`index.mjs` · `dex-gating.mjs` · `soroban-dex.mjs` · `mainnet.mjs` · `mainnet-executor.mjs` · `freighter.mjs`) | EXERCISED ON MAINNET (the anchor call + the gated swap) · wrappers credential-gated |
+| Stellar docs — [STELLAR-KILLER-FEATURES](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STELLAR-KILLER-FEATURES.md) · [EVIDENCE-MATRIX](https://github.com/coreguard-global/CoreGuard/blob/main/docs/EVIDENCE-MATRIX.md) · [STELLAR-ECOSYSTEM-INTEGRATION](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STELLAR-ECOSYSTEM-INTEGRATION.md) · [STELLAR-INTEGRATION-GUIDE](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STELLAR-INTEGRATION-GUIDE.md) · [STELLAR-MAINNET-TX](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STELLAR-MAINNET-TX.md) · [INTENT-TO-EXECUTION-PROOF](https://github.com/coreguard-global/CoreGuard/blob/main/docs/INTENT-TO-EXECUTION-PROOF.md) · [GRANT-APPLICATION-STELLAR](https://github.com/coreguard-global/CoreGuard/blob/main/docs/GRANT-APPLICATION-STELLAR.md) | SHIPPED |
+| Offline verify — five re-derivation runners (`--verify`) | CI-EXERCISED on every push |
+
+Row-by-row truth: [docs/EVIDENCE-MATRIX.md](https://github.com/coreguard-global/CoreGuard/blob/main/docs/EVIDENCE-MATRIX.md) · full deliverable catalog: [docs/PRODUCTS.md §11](https://github.com/coreguard-global/CoreGuard/blob/main/docs/PRODUCTS.md) · dedicated repo-README section: [CoreGuard/main/README.md](https://github.com/coreguard-global/CoreGuard/blob/main/README.md).
+**Never claimed:** signed sweeps beyond the ONE owner-authorized anchor call + the ONE gated swap · npm publication · revenue, customers or partnerships.
+
 ## ⚙️ What CoreGuard builds
 
 | Surface | What it delivers |
