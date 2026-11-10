@@ -19,7 +19,7 @@ CoreGuard tells you whether execution **conformed to what was authorized** — n
 | | |
 |---|---|
 | 🔗 | [![Website](https://img.shields.io/badge/website-coreguard--global.github.io%2FCoreGuard-FF8A00?style=flat-square&labelColor=0B0F14)](https://coreguard-global.github.io/CoreGuard/) [![Core Mainnet](https://img.shields.io/badge/Core%20Mainnet-anchor%20·%20chainId%201116-FF8A00?style=flat-square&labelColor=0B0F14)](https://coreguard-global.github.io/CoreGuard/PRODUCTS.html) [![Stellar mainnet](https://img.shields.io/badge/Stellar%20mainnet-anchor%20deployed%20·%20call%20INVOKED%20·%20swap%20CONFIRMED-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/EVIDENCE-MATRIX.md#stellar) [![Trust gate](https://img.shields.io/badge/trust%20gate-live%20anchor%20·%20independent--verify%20ladder-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/TRUST.md) |
-| 📊 | [![Tests](https://img.shields.io/badge/tests-1436%2F1436%20·%20machine--pinned-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md) [![Boundary](https://img.shields.io/badge/boundary-1045%20files%20·%200%20violations-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md) [![Benchmark](https://img.shields.io/badge/benchmark%2010k-0%20false%20accept%20·%200%20false%20reject-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md) [![Mutation lab](https://img.shields.io/badge/mutation%20lab-1000%2F1000%20refused-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md) |
+| 📊 | [![Tests](https://img.shields.io/badge/tests-1476%2F1476%20·%20machine--pinned-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md) [![Boundary](https://img.shields.io/badge/boundary-1080%20files%20·%200%20violations-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md) [![Benchmark](https://img.shields.io/badge/benchmark%2010k-0%20false%20accept%20·%200%20false%20reject-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md) [![Mutation lab](https://img.shields.io/badge/mutation%20lab-1000%2F1000%20refused-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md) |
 
 <br>
 
@@ -34,7 +34,7 @@ CoreGuard tells you whether execution **conformed to what was authorized** — n
 | Network | Entry | Status |
 | --- | --- | --- |
 | **Core DAO** | Per-network commitment anchor on Core (chainId 1116) · `0x037dF08F2d43c5D03759279Fe35664f6AFf9EA6E` | **LIVE** |
-| **Stellar** | Soroban anchor contract MAINNET DEPLOYED (`CCKA2GYVILX7YZVSXGVIHOPNLTRBBF2SSWKBTQBIE7M67N5N2QMMXPSP`, stellar.expert-listed) · first commitment-anchor CALL INVOKED (owner-authorized `commit(proofId, commitment)`, tx `69044807410f65027c1227f4e525ad83f23a6cb1a2bb79790d82849c5dbc9fec`, ledger 65,337,373) · **first SIGNED funded DEX swap EXECUTED on the real mainnet order book (owner-authorized `pathPaymentStrictSend`, tx `ac2a7990b3387aab96b197c0c921d57756bd25d65ad0e75b93561ded640b9097`, ledger 65,338,112; `4.0598146 XLM → 0.6306239 USDC`)** · agent gate + REAL-BOOK DEX gate + shield arms EXECUTED with committed artifacts | `MAINNET LIVE (Soroban)` |
+| **Stellar** | Soroban anchor contract MAINNET DEPLOYED (`CCKA2GYVILX7YZVSXGVIHOPNLTRBBF2SSWKBTQBIE7M67N5N2QMMXPSP`, stellar.expert-listed) · first commitment-anchor CALL INVOKED (owner-authorized `commit(proofId, commitment)`, tx `69044807410f65027c1227f4e525ad83f23a6cb1a2bb79790d82849c5dbc9fec`, ledger 65,337,373) · **first SIGNED funded DEX swap EXECUTED on the real mainnet order book (owner-authorized `pathPaymentStrictSend`, tx `ac2a7990b3387aab96b197c0c921d57756bd25d65ad0e75b93561ded640b9097`, ledger 65,338,112; `4.0598146 XLM → 0.6306239 USDC`)** · agent gate + REAL-BOOK DEX gate + shield arms EXECUTED with committed artifacts · **Phase 5 LIVE-VERIFIED** (create ledger 65408001, balance exact, readback `SIMULATED_NONE`) · **Soroban authorized lane** (owner-gated `commit_authorized`) · Phase 3 first attempt captured fail-closed | `MAINNET LIVE (Soroban)` |
 | **Pi Network** | Browser DApps · Pi Wallet · Pi Commerce shield | `DRY_RUN / PLAN_ONLY` |
 
 ## ⭐ Stellar mainnet — verified & executed · شبكة ستيلار الرئيسية — موثّقة ثم منفّذة
@@ -47,23 +47,21 @@ CoreGuard tells you whether execution **conformed to what was authorized** — n
 | **Soroban anchor — MAINNET DEPLOYED** | `CCKA2GYVILX7YZVSXGVIHOPNLTRBBF2SSWKBTQBIE7M67N5N2QMMXPSP` — stellar.expert-listed · creator = the CoreGuard wallet · deployment untouched, no re-deploy |
 | **Anchor CALL — INVOKED** | owner-authorized `commit(proofId, commitment)` — tx `69044807410f65027c1227f4e525ad83f23a6cb1a2bb79790d82849c5dbc9fec` · ledger **65,337,373** · on-chain read-back `{hash, seq}` exact |
 | **First SIGNED FUNDED swap — CONFIRMED** | DEX-GATE/1 preflight VERIFIED → owner-signed `pathPaymentStrictSend` on the REAL mainnet order book — tx `ac2a7990b3387aab96b197c0c921d57756bd25d65ad0e75b93561ded640b9097` · ledger **65,338,112** (trustline ledger 65,338,111) · `4.0598146 XLM → 0.6306239 USDC` (0.1553331 USDC/XLM) · destMin `0.6011661` cleared · evidence digest `sha256:837d0639…ac2c` |
+| **Phase 5 live verify — LIVE-VERIFIED** | owner-authorized Soroban deploy lane — create ledger **65408001** (latest 65408223) · contract `CAZ3LQEMB37KICXEANKVMRNWMB5MD3O4FBC5GORB7QVUJE2WCPAHQPZB` (wasm `65da850c…c8257`) · fresh-vault readback `SIMULATED_NONE` · balance arithmetic exact to the stroop (`81099724` stroops) · deploy verdict saved **NOT_CONFIRMED** (fail-closed) |
+| **Soroban authorized lane** | owner-gated `commit_authorized` (identity enforced in-contract; `owner.require_auth()` host-gated) · JS runners: rehearsal + live-verify (fee solvency pre-send · artifact self-decode · binding hoist) · live mainnet instance remains the deployed/1 binary — no deploy, no restatement |
 
 **Executed gate surfaces:** **STELLAR-AGENT/1** AI Agent Payment Gate (VERIFIED / REJECTED / HELD · never auto-pay) · **DEX-GATE/1** real-book gate (five verdicts against the live XLM/USDC mainnet order book) · **universal DApp-shield arms** (2 ALLOW · 2 REQUIRE_REVIEW · 1 DENY · 1 REFUSED).
 
-| Stellar products & services | Honest status |
-| --- | --- |
-| `packages/stellar` — intent → policy → gate engine (`index.mjs` · `dex-gating.mjs` · `soroban-dex.mjs` · `mainnet.mjs` · `mainnet-executor.mjs` · `freighter.mjs`) | EXERCISED ON MAINNET (the anchor call + the gated swap) · wrappers credential-gated |
-| Stellar docs — [STELLAR-KILLER-FEATURES](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STELLAR-KILLER-FEATURES.md) · [EVIDENCE-MATRIX](https://github.com/coreguard-global/CoreGuard/blob/main/docs/EVIDENCE-MATRIX.md) · [STELLAR-ECOSYSTEM-INTEGRATION](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STELLAR-ECOSYSTEM-INTEGRATION.md) · [STELLAR-INTEGRATION-GUIDE](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STELLAR-INTEGRATION-GUIDE.md) · [STELLAR-MAINNET-TX](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STELLAR-MAINNET-TX.md) · [INTENT-TO-EXECUTION-PROOF](https://github.com/coreguard-global/CoreGuard/blob/main/docs/INTENT-TO-EXECUTION-PROOF.md) · [GRANT-APPLICATION-STELLAR](https://github.com/coreguard-global/CoreGuard/blob/main/docs/GRANT-APPLICATION-STELLAR.md) | SHIPPED |
-| Offline verify — five re-derivation runners (`--verify`) | CI-EXERCISED on every push |
+### Stellar products & services shipped
 
-Row-by-row truth: [docs/EVIDENCE-MATRIX.md](https://github.com/coreguard-global/CoreGuard/blob/main/docs/EVIDENCE-MATRIX.md) · full deliverable catalog: [docs/PRODUCTS.md §11](https://github.com/coreguard-global/CoreGuard/blob/main/docs/PRODUCTS.md) · dedicated repo-README section: [CoreGuard/main/README.md](https://github.com/coreguard-global/CoreGuard/blob/main/README.md).
-**Never claimed:** signed sweeps beyond the ONE owner-authorized anchor call + the ONE gated swap · npm publication · revenue, customers or partnerships.
+- `packages/stellar` — intent→policy→gate engine (`index.mjs`) · Soroban DEX gating (`dex-gating.mjs`, `soroban-dex.mjs`) · mainnet runner (`mainnet.mjs`, `mainnet-executor.mjs`, credential-gated) · Freighter wallet wrapper (`freighter.mjs`, credential-gated)
+- Stellar killer-facts + guides: `STELLAR-KILLER-FEATURES.md` · `STELLAR-ECOSYSTEM-INTEGRATION.md` · `STELLAR-INTEGRATION-GUIDE.md` · `STELLAR-MAINNET-TX.md` · `INTENT-TO-EXECUTION-PROOF.md` · `GRANT-APPLICATION-STELLAR.md` · Phase-3 plan `STELLAR-PHASE3-2026-10.md` (+ AR) · one Trinity view with Core + Pi `TRINITY-CORE-STELLAR-PI.md`
+- Offline verify — five re-derivation runners (`--verify`), CI-EXERCISED on every push
+- Row-by-row truth: `docs/EVIDENCE-MATRIX.md` · full deliverable catalog: `docs/PRODUCTS.md §11`
 
-**Stellar honesty mirror (what is NOT claimed):** signed mainnet funded transfers
-beyond the ONE owner-authorized anchor commit CALL and the ONE owner-authorized
-gated swap — credential-gated owner decisions · npm SDK publication — double-gated
-pending `NPM_TOKEN` · SaaS live payment — owner rails pending · revenue, customers
-or partnerships — none.
+### Stellar honesty mirror (what is NOT claimed)
+
+signed mainnet funded transfers beyond the ONE owner-authorized anchor commit CALL and the ONE owner-authorized gated swap — credential-gated owner decisions · npm SDK publication — double-gated pending `NPM_TOKEN` · SaaS live payment — owner rails pending · revenue, customers or partnerships — none.
 
 ## ⚙️ What CoreGuard builds
 
@@ -86,7 +84,7 @@ or partnerships — none.
 
 ## 🚫 What we never claim
 
-**`UNKNOWN` stays HELD.** Every number above is CI-measured on every push and pinned as a re-derivable artifact. **Stellar is mainnet-verified and executed**: the Soroban anchor contract is deployed on Stellar mainnet, the first commitment-anchor CALL is INVOKED, the first SIGNED funded DEX swap is EXECUTED on the real mainnet order book (owner-authorized), and the agent/DEX/shield gate surfaces carry committed execution artifacts — while every later SIGNED money-moving sweep stays credential-gated by design. **Pi** sits at `DRY_RUN`/`PLAN_ONLY` by design. **No settlement authority for anyone, including the owner.** A claim without a replayable artifact is a red flag, not a feature.
+**`UNKNOWN` stays HELD.** Every number above is CI-measured on every push and pinned as a re-derivable artifact. **Stellar is mainnet-verified and executed**: the Soroban anchor contract is deployed on Stellar mainnet, the anchor CALL is INVOKED (ledger 65,337,373), the first SIGNED funded swap is CONFIRMED (ledger 65,338,112, `4.0598146 XLM → 0.6306239 USDC`), and the agent/DEX/shield gate surfaces carry committed execution artifacts — plus the Phase-5 owner-authorized Soroban deploy lane is **LIVE-VERIFIED** (create ledger 65408001, balance exact, readback `SIMULATED_NONE`) and the Soroban **authorized lane** (`commit_authorized`, owner-gated) ships as additive to the deployed/1 ABI — while every later SIGNED money-moving sweep stays credential-gated by design. **Pi** sits at `DRY_RUN`/`PLAN_ONLY` by design. **No settlement authority for anyone, including the owner.** A claim without a replayable artifact is a red flag, not a feature.
 
 ## 🚪 Engage
 
