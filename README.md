@@ -10,16 +10,27 @@
 
 ---
 
+## 🟠 SCF #46 — RFP Track · RFP-2 (XDR/CAP-Coverage Audit Tool) — SUBMISSION-READY
+
+The [CoreGuard repo](https://github.com/coreguard-global/CoreGuard) carries the complete kit, deadline **2026-11-20, 9 AM PT**:
+
+- **Paste-ready instrument** — interest-form answers + full technical annex: [`docs/SCF-46-RFP2-XDR-AUDIT-SUBMISSION-2026-11-13.md`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/SCF-46-RFP2-XDR-AUDIT-SUBMISSION-2026-11-13.md)
+- **The RFP's mandatory reviewability gate** — draft manifest schema + corpus samples + offline deterministic reproduction of a sighting class named by the RFP itself (`js-stellar-sdk#1766`): [`scripts/scf-rfp2-sighting-repro.mjs`](https://github.com/coreguard-global/CoreGuard/blob/main/scripts/scf-rfp2-sighting-repro.mjs) · [evidence JSON](https://github.com/coreguard-global/CoreGuard/blob/main/docs/evidence/scf-rfp2-sighting-repro.json)
+- **Measured interest-form status** — submitted 2026-11-06/07, under review; one interest form per cycle enforced (measured on the SCF dashboard 2026-11-14); RFP Track — RFP 2 flagged in `#scf-general`
+
+Honest boundary: the M0–M5 deliverables are the proposed funded work, **not built**; funding **$0** until awarded; *"submitted"* is the only publishable fact.
+
 ## 📦 The stack
 
 | Repo | What it is | Live surface |
 | --- | --- | --- |
-| **[CoreGuard](https://github.com/coreguard-global/CoreGuard)** | The verifiable execution truth layer + fail-closed agent economy · CI-measured (`1476/1476` · 1080 files · 0 violations) · **Stellar mainnet: Soroban anchor DEPLOYED (`CCKA2GYVILX7YZVSXGVIHOPNLTRBBF2SSWKBTQBIE7M67N5N2QMMXPSP`) · anchor CALL INVOKED (ledger 65,337,373) · first SIGNED funded swap CONFIRMED (ledger 65,338,112) · agent/DEX/shield gates EXECUTED · Phase 5 LIVE-VERIFIED (create ledger 65408001, balance exact) · authorized lane (owner-gated) · all with committed, digest-checked artifacts** | [coreguard-global.github.io/CoreGuard](https://coreguard-global.github.io/CoreGuard/) · [▶ Playground](https://coreguard-global.github.io/CoreGuard/PLAYGROUND.html) · [🛍 Products](https://coreguard-global.github.io/CoreGuard/PRODUCTS.html) · [🛡 Brand](https://coreguard-global.github.io/CoreGuard/BRAND.html) |
+| **[CoreGuard](https://github.com/coreguard-global/CoreGuard)** | The verifiable execution truth layer + fail-closed agent economy · CI-measured (`1576/1576` · 1148 files · 0 violations) · **Stellar mainnet: Soroban anchor DEPLOYED (`CCKA2GYVILX7YZVSXGVIHOPNLTRBBF2SSWKBTQBIE7M67N5N2QMMXPSP`) · anchor CALL INVOKED (ledger 65,337,373) · first SIGNED funded swap CONFIRMED (ledger 65,338,112) · agent/DEX/shield gates EXECUTED · Phase 5 LIVE-VERIFIED (create ledger 65408001, balance exact) · authorized lane (owner-gated) · all with committed, digest-checked artifacts** | [coreguard-global.github.io/CoreGuard](https://coreguard-global.github.io/CoreGuard/) · [▶ Playground](https://coreguard-global.github.io/CoreGuard/PLAYGROUND.html) · [🛍 Products](https://coreguard-global.github.io/CoreGuard/PRODUCTS.html) · [🛡 Brand](https://coreguard-global.github.io/CoreGuard/BRAND.html) |
 | **📦 [@coreguard-global/coreguard-badge](https://github.com/orgs/coreguard-global/packages)** | CG-BDG/1 self-verifying badge engine (`CoreGuard/packages/badge`) — derived artwork, `verifyBadge()` re-derives every digest, zero deps · npmjs.com publication stays double-gated pending `NPM_TOKEN` | [GitHub Packages tab](https://github.com/orgs/coreguard-global/packages) · [Release v1.1.0](https://github.com/coreguard-global/CoreGuard/releases/tag/v1.1.0) |
 | **`.github` (this repo)** | Organization profile + org-wide defaults | [Profile](https://github.com/coreguard-global#readme) |
 
 ## 🔎 Start here
 
+- **[SCF #46 RFP-2 — XDR/CAP audit kit · SUBMISSION-READY](https://github.com/coreguard-global/CoreGuard/blob/main/docs/SCF-46-RFP2-XDR-AUDIT-SUBMISSION-2026-11-13.md)** — the interest-form instrument + committed reproduction evidence + measured form status (deadline 2026-11-20, 9 AM PT).
 - **[STATUS.md — one source of truth](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md)** — every metric machine-measured & pinned, never estimated.
 - **[TRUST.md — investor trust gate](https://github.com/coreguard-global/CoreGuard/blob/main/docs/TRUST.md)** — the live Core Mainnet anchor (chainId 1116), the independent-verify ladder, and what we never claim.
 - **Stellar mainnet truth row** — Soroban anchor contract deployed (`CCKA2GYVILX7YZVSXGVIHOPNLTRBBF2SSWKBTQBIE7M67N5N2QMMXPSP`); anchor CALL INVOKED (tx `69044807…`, ledger 65,337,373); first SIGNED funded swap CONFIRMED (tx `ac2a7990…`, ledger 65,338,112, `4.0598146 XLM → 0.6306239 USDC`); agent/DEX/shield gates EXECUTED; **Phase 5 LIVE-VERIFIED** (create ledger 65408001, balance exact to the stroop, readback `SIMULATED_NONE`); **Soroban authorized lane** (owner-gated `commit_authorized`, host-gated); Phase 3 first attempt captured fail-closed (`txInsufficientBalance`, self-decoded). All under `docs/evidence/` in the CoreGuard repo, digest-checked.
