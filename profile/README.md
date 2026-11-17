@@ -1,10 +1,54 @@
 <div align="center">
 
-<a href="https://github.com/coreguard-global/CoreGuard">
-  <img src="https://raw.githubusercontent.com/coreguard-global/CoreGuard/main/assets/coreguard-logo-transparent.png" width="170" alt="CoreGuard">
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coreguard-global/.github/main/brand/coreguard-banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coreguard-global/.github/main/brand/coreguard-logo-light.png">
+  <img src="https://raw.githubusercontent.com/coreguard-global/.github/main/brand/coreguard-banner-dark.png" width="820" alt="CoreGuard — VERIFY • PROTECT • EMPOWER">
+</picture>
 
-# CoreGuard
+### More than security. It's trust.
+
+**Execution Integrity for a Smarter Onchain Future** — the execution trust layer for **Stellar**, live anchors on **Core DAO**, and a planned lane for **Pi Network**.
+
+[![Website](https://img.shields.io/badge/🌐%20Website-CoreGuard-FF8A00?style=for-the-badge&labelColor=0B0F14)](https://coreguard-trust-and-defense.lovable.app/)
+[![Stellar](https://img.shields.io/badge/⭐%20Stellar-execution%20trust%20layer-FF8A00?style=for-the-badge&labelColor=0B0F14)](https://coreguard-trust-and-defense.lovable.app/stellar)
+[![Investors](https://img.shields.io/badge/💼%20Investors-%24150K%20plan-FF8A00?style=for-the-badge&labelColor=0B0F14)](https://coreguard-trust-and-defense.lovable.app/investors)
+[![Roadmap](https://img.shields.io/badge/🗺%20Roadmap-org%20level-FF8A00?style=for-the-badge&labelColor=0B0F14)](https://github.com/coreguard-global/.github/blob/main/profile/ROADMAP.md)
+
+<img src="https://raw.githubusercontent.com/coreguard-global/.github/main/brand/coreguard-brand-colors.png" width="260" alt="Brand colors"> <img src="https://raw.githubusercontent.com/coreguard-global/.github/main/brand/coreguard-trust-3d.png" width="300" alt="CoreGuard 3D shield">
+
+</div>
+
+---
+
+## 🧭 Quick navigation · التنقل السريع
+
+| For | Open |
+|---|---|
+| **Stellar judges & SCF reviewers** | [Stellar page](https://coreguard-trust-and-defense.lovable.app/stellar) · [Reviewer deck & videos](https://coreguard-trust-and-defense.lovable.app/stellar) · [SCF #46 RFP-2 kit](https://github.com/coreguard-global/CoreGuard/blob/main/docs/SCF-46-RFP2-XDR-AUDIT-SUBMISSION-2026-11-13.md) |
+| **Investors & funders** | [Investors](https://coreguard-trust-and-defense.lovable.app/investors) · [Funding request](https://coreguard-trust-and-defense.lovable.app/funding) · [Org roadmap](https://github.com/coreguard-global/.github/blob/main/profile/ROADMAP.md) |
+| **Partners & incubators** | [Partnerships & incubators](https://coreguard-trust-and-defense.lovable.app/partnerships) · [Contact](https://coreguard-trust-and-defense.lovable.app/contact) |
+| **Builders** | [CoreGuard repo](https://github.com/coreguard-global/CoreGuard) · [Products](https://coreguard-trust-and-defense.lovable.app/products) · [Developments](https://coreguard-trust-and-defense.lovable.app/developments) · [Blog](https://coreguard-trust-and-defense.lovable.app/blog) · [Code & security reviews](https://coreguard-trust-and-defense.lovable.app/reviews) |
+| **Brand** | [Brand kit (download)](https://coreguard-trust-and-defense.lovable.app/brand) · [Core DAO page](https://coreguard-trust-and-defense.lovable.app/networks/core-dao) |
+
+## 💰 Funding plan — $150K requested (not awarded)
+
+| Milestone | Amount | Status |
+|---|---:|---|
+| **M1** — Execution-trust core hardening + PSAR/1 reviewer path | **$40,000** | Requested |
+| **M2** — Stellar integration surfaces (agent / DEX gates, SDK) | **$55,000** | Requested |
+| **M3** — External pilot + independent review readiness | **$55,000** | Requested |
+| **Total** | **$150,000** | **$0 received** — funding counts only once awarded |
+
+> Honest boundary: no external pilot is signed yet, no third-party audit exists, and no revenue or customers are claimed.
+
+<div align="center"><img src="https://raw.githubusercontent.com/coreguard-global/.github/main/brand/coreguard-icon-set.png" width="620" alt="CoreGuard icon set"></div>
+
+---
+
+<div align="center">
+
+## 🛡 CoreGuard — the measured truth
 
 **VERIFY&nbsp;•&nbsp;PROTECT&nbsp;•&nbsp;EMPOWER**
 
@@ -120,3 +164,4 @@ CoreGuard tells you whether execution **conformed to what was authorized** — n
 <sub>🛡 CoreGuard — VERIFY • PROTECT • EMPOWER · Core Orange `#FF8A00` · Deep Core `#0B0F14` · © 2026 coreguard-global · EslaM-X</sub>
 
 </div>
+
