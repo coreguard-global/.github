@@ -1,6 +1,10 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/coreguard-global/.github/main/brand/coreguard-lockup-dark.png" width="380" alt="CoreGuard">
+
 # ⛨ CoreGuard Global — Public Hub
+
+**VERIFY • PROTECT • EMPOWER** · [🌐 Website](https://coreguard-trust-and-defense.lovable.app/) · [🗺 Roadmap](https://github.com/coreguard-global/.github/blob/main/profile/ROADMAP.md) · [🎨 Brand assets](https://github.com/coreguard-global/.github/tree/main/brand)
 
 **The organization profile lives in [`profile/`](https://github.com/coreguard-global/.github/blob/main/profile/README.md) — this repo hosts it plus org-wide defaults.**
 
@@ -58,3 +62,4 @@ Integration pilots · grant-funded builds · strategic partnerships — wallets,
 **Founder** [EslaM-X](https://github.com/EslaM-X) · **LinkedIn** [coreguard-global](https://www.linkedin.com/company/coreguard-global) · **X** [CoreGuardGlobal](https://twitter.com/CoreGuardGlobal)
 
 </div>
+
