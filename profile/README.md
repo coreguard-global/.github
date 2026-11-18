@@ -21,6 +21,10 @@
 
 ---
 
+<p align="center">
+  <a href="https://coreguard-trust-and-defense.lovable.app/scf-46"><b>🚀 SCF #46 Application</b></a> &nbsp;·&nbsp; <a href="https://coreguard-trust-and-defense.lovable.app/partners"><b>🤝 Partner Portal</b></a> &nbsp;·&nbsp; <a href="https://coreguard-trust-and-defense.lovable.app/investors"><b>Investor brief</b></a> &nbsp;·&nbsp; <a href="https://coreguard-global.github.io/CoreGuard/">Live surfaces</a>
+</p>
+
 ## 🧭 Quick navigation · التنقل السريع
 
 | For | Open |
