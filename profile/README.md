@@ -3,197 +3,133 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coreguard-global/.github/main/brand/coreguard-banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coreguard-global/.github/main/brand/coreguard-logo-light.png">
-  <img src="https://raw.githubusercontent.com/coreguard-global/.github/main/brand/coreguard-banner-dark.png" width="820" alt="CoreGuard — VERIFY • PROTECT • EMPOWER">
+  <img src="https://raw.githubusercontent.com/coreguard-global/.github/main/brand/coreguard-banner-dark.png" width="820" alt="CoreGuard Global — Independent Execution Trust Infrastructure">
 </picture>
 
-### More than security. It's trust.
+### CoreGuard Global
 
-**Execution Integrity for a Smarter Onchain Future** — the execution trust layer for **Stellar**, live anchors on **Core DAO**, and a planned lane for **Pi Network**.
+**Independent Execution Trust Infrastructure** — security and verification
+infrastructure for AI agents, wallets, payments and decentralized applications.
 
-[![Website](https://img.shields.io/badge/🌐%20Website-CoreGuard-FF8A00?style=for-the-badge&labelColor=0B0F14)](https://coreguard-trust-and-defense.lovable.app/)
-[![Stellar](https://img.shields.io/badge/⭐%20Stellar-execution%20trust%20layer-FF8A00?style=for-the-badge&labelColor=0B0F14)](https://coreguard-trust-and-defense.lovable.app/stellar)
-[![Investors](https://img.shields.io/badge/💼%20Investors-%24150K%20plan-FF8A00?style=for-the-badge&labelColor=0B0F14)](https://coreguard-trust-and-defense.lovable.app/investors)
-[![Roadmap](https://img.shields.io/badge/🗺%20Roadmap-org%20level-FF8A00?style=for-the-badge&labelColor=0B0F14)](https://github.com/coreguard-global/.github/blob/main/profile/ROADMAP.md)
-
-<img src="https://raw.githubusercontent.com/coreguard-global/.github/main/brand/coreguard-brand-colors.png" width="260" alt="Brand colors"> <img src="https://raw.githubusercontent.com/coreguard-global/.github/main/brand/coreguard-trust-3d.png" width="300" alt="CoreGuard 3D shield">
+[![Website](https://img.shields.io/badge/Website-CoreGuard-FF8A00?style=for-the-badge&labelColor=0B0F14)](https://coreguard-trust-and-defense.lovable.app/)
+[![Product](https://img.shields.io/badge/Product-Agent%20Execution%20Security-FF8A00?style=for-the-badge&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/PRODUCT.md)
+[![Investor readiness](https://img.shields.io/badge/Investor-readiness%20pack-FF8A00?style=for-the-badge&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/COREGUARD-INVESTMENT-READINESS.md)
+[![Evidence](https://img.shields.io/badge/Evidence-mainnet%20records-FF8A00?style=for-the-badge&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/EVIDENCE.md)
 
 </div>
 
 ---
 
-<p align="center">
-  <a href="https://coreguard-trust-and-defense.lovable.app/scf-46"><b>🚀 SCF #46 Application</b></a> &nbsp;·&nbsp; <a href="https://coreguard-trust-and-defense.lovable.app/partners"><b>🤝 Partner Portal</b></a> &nbsp;·&nbsp; <a href="https://coreguard-trust-and-defense.lovable.app/investors"><b>Investor brief</b></a> &nbsp;·&nbsp; <a href="https://coreguard-global.github.io/CoreGuard/">Live surfaces</a>
-</p>
-
-## 🧭 Quick navigation · التنقل السريع
-
-| For | Open |
-|---|---|
-| **Stellar judges & SCF reviewers** | [Stellar page](https://coreguard-trust-and-defense.lovable.app/stellar) · [Reviewer deck & videos](https://coreguard-trust-and-defense.lovable.app/stellar) · [SCF #46 RFP-2 kit](https://github.com/coreguard-global/CoreGuard/blob/main/docs/SCF-46-RFP2-XDR-AUDIT-SUBMISSION-2026-11-13.md) |
-| **Investors & funders** | [Investors](https://coreguard-trust-and-defense.lovable.app/investors) · [Funding request](https://coreguard-trust-and-defense.lovable.app/funding) · [Org roadmap](https://github.com/coreguard-global/.github/blob/main/profile/ROADMAP.md) |
-| **Partners & incubators** | [Partnerships & incubators](https://coreguard-trust-and-defense.lovable.app/partnerships) · [Contact](https://coreguard-trust-and-defense.lovable.app/contact) |
-| **Builders** | [CoreGuard repo](https://github.com/coreguard-global/CoreGuard) · [Products](https://coreguard-trust-and-defense.lovable.app/products) · [Developments](https://coreguard-trust-and-defense.lovable.app/developments) · [Blog](https://coreguard-trust-and-defense.lovable.app/blog) · [Code & security reviews](https://coreguard-trust-and-defense.lovable.app/reviews) |
-| **Brand** | [Brand kit (download)](https://coreguard-trust-and-defense.lovable.app/brand) · [Core DAO page](https://coreguard-trust-and-defense.lovable.app/networks/core-dao) |
-
-## 💰 Funding plan — $150K requested (not awarded)
-
-| Milestone | Amount | Status |
-|---|---:|---|
-| **M1** — Execution-trust core hardening + PSAR/1 reviewer path | **$40,000** | Requested |
-| **M2** — Stellar integration surfaces (agent / DEX gates, SDK) | **$55,000** | Requested |
-| **M3** — External pilot + independent review readiness | **$55,000** | Requested |
-| **Total** | **$150,000** | **$0 received** — funding counts only once awarded |
-
-> Honest boundary: no external pilot is signed yet, no third-party audit exists, and no revenue or customers are claimed.
-
-<div align="center"><img src="https://raw.githubusercontent.com/coreguard-global/.github/main/brand/coreguard-icon-set.png" width="620" alt="CoreGuard icon set"></div>
-
----
-
-<div align="center">
-
-## 🟢 Independent external trial — reproduced by a stranger's machine
-
-> **19 Nov 2026 · public record:** [ACP discussion #328](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol/discussions/328)
-
-The **Zambo / AER-1 team** — authors of an independent agent-execution-receipt standard — cloned CoreGuard fresh at commit `5a1f3bd`, counted the CI checks themselves, and ran the VAR/1 pilot kit with one command. The seeded receipt then re-derived **byte-for-byte on three machines** across two Node runtimes.
-
-| Signal | Result | Source |
-|---|:--:|---|
-| Pilot-kit rows on a fresh clone, run twice | **15 / 15 · exit 0** | [external report](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol/discussions/328#discussioncomment-19722647) |
-| CI check runs counted externally on the commit | **12 / 12** | same report |
-| Seeded receipt identical on 3 machines (node v24 · v26) | **byte-identical** | [seeded run](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol/discussions/328#discussioncomment-19750155) · [third machine](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol/discussions/328#discussioncomment-19752157) |
-| `present-consistent-nonconforming` fixture tests re-run externally | **6 / 6** | third-machine check |
-| AER-1 × VAR/1 outcome mapping agreed in public | **5 outcomes mapped** | [mapping note](https://github.com/coreguard-global/CoreGuard/blob/main/docs/aer1-var1-outcome-mapping.md) |
-
-```text
-$ node examples/var1-pilot-kit/run.mjs --seed e8cfcd1a93ce50d6d6ace046db9c878ba8e63d3873acc821c9c6d0742cd848cb --at 2026-11-19T14:00:00Z
-receipt  urn:sha256:8c6c12bad40471d2c83d8f6ee2a0c07c8649045aa2e96726a4ee31bec13a72c7
-body     sha256:386d218c154ae444c878b1b4ee32daf3f5b32f8bd9de363aa854c89f099334b1
-```
-
-**What came out of it — shipped Nov 15–19:** `VAR/1` one-command pilot kit · `CG-OUT/1` outcome layer (five outcomes; `ABSENT` / `NOT_CHECKED` never travel as a block) · `CG-ID/1` record identity split · AER-1 parser + full 72-file corpus run · `CG-ANCHOR/1` own anchor service + `CG-COMPOSE/1` composition policy · Agent Commerce discovery, key trust, spend ledger and payment policy · two-column corpus vectors (`present-consistent-nonconforming`, `anchor-unresolvable`).
-
-> **Scope, stated plainly:** this is an independent *technical reproduction* of our open kit by another standards team. It is **not** a commercial pilot, customer, partnership, audit or endorsement. `VERIFIED ≠ SAFE`.
-
-**Founder:** [EslaM HeshAM (MR-X)](https://coreguard-trust-and-defense.lovable.app/founder) · Website: [coreguard-trust-and-defense.lovable.app](https://coreguard-trust-and-defense.lovable.app)
-
----
-
-## 🛡 CoreGuard — the measured truth
-
-**VERIFY&nbsp;•&nbsp;PROTECT&nbsp;•&nbsp;EMPOWER**
-
-**The verifiable execution truth layer + fail-closed agent economy — for Bitcoin DeFi.**
-
-*<sub>طبقة الحقيقة التنفيذية القابلة للتحقق لتمويل البيتكوين — ‏الحكم لا يستقر إلا حيث تثبتُه الأدلة</sub>*
-
-CoreGuard tells you whether execution **conformed to what was authorized** — not merely why it looked plausible. Evidence is deterministic, independently replayable by anyone, and audited on every push; **`UNKNOWN` stays HELD** until evidence closes it.
-
-<br>
+## Two names, two jobs
 
 | | |
 |---|---|
-| 🔗 | [![Website](https://img.shields.io/badge/website-coreguard--global.github.io%2FCoreGuard-FF8A00?style=flat-square&labelColor=0B0F14)](https://coreguard-global.github.io/CoreGuard/) [![Core Mainnet](https://img.shields.io/badge/Core%20Mainnet-anchor%20·%20chainId%201116-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/DEPLOYMENT.md) [![Stellar mainnet](https://img.shields.io/badge/Stellar%20mainnet-anchors%20·%20gates%20·%20PSAR%2F1-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/EVIDENCE-MATRIX.md#stellar) [![Trust gate](https://img.shields.io/badge/trust%20gate-live%20anchor%20·%20independent--verify%20ladder-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/TRUST.md) |
-| 📊 | [![Tests](https://img.shields.io/badge/tests-1857%2F1857%20·%20machine--pinned-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md) [![Boundary](https://img.shields.io/badge/boundary-1397%20files%20·%200%20violations-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md) [![Foundry](https://img.shields.io/badge/foundry-43%2F43%20·%20CI--measured-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md) [![Claims audit](https://img.shields.io/badge/claims%20audit-PASS-FF8A00?style=flat-square&labelColor=0B0F14)](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md) |
+| **CoreGuard Global** | The organisation — who signs, who hires, who is accountable. |
+| **CoreGuard** | The product and protocol — the software, the receipts, the verifier, the network integrations. |
 
-<br>
+One product is sold: **CoreGuard Agent Execution Security**, an execution
+verification and authorization layer that runs *beside* the wallet, agent
+runtime, DEX or payment rail. It does not replace any of them.
 
-**[▶ Live playground](https://coreguard-global.github.io/CoreGuard/PLAYGROUND.html) · [🛍 Product catalog](https://coreguard-global.github.io/CoreGuard/PRODUCTS.html) · [🛡 Bilingual brand kit](https://coreguard-global.github.io/CoreGuard/BRAND.html) · [📄 One source of truth](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md)**
+## What we build
 
-</div>
+**CoreGuard makes the gap between "what was authorized" and "what actually
+executed" measurable, refusable, and independently checkable.**
 
-## 🟠 SCF #46 — RFP Track · RFP-2: XDR/CAP-Coverage Audit Tool and Indexer-Hardening Guide
-
-**SUBMISSION-READY before the deadline (2026-11-20, 9 AM PT) — every artifact is committed in the [CoreGuard repo](https://github.com/coreguard-global/CoreGuard), and a reviewer re-runs the whole thing from a fresh clone.**
-
-| What an SCF reviewer can check, right now | Where (committed evidence) |
-|---|---|
-| **The paste-ready instrument** — interest-form answers + the full technical annex: every RFP deliverable mapped to its quoted acceptance check, testable milestones M0–M5, architecture diagram, draft manifest schema v0, sample corpus entries, honest familiarity statement (incl. *"no indexer authored yet"*) | [`docs/SCF-46-RFP2-XDR-AUDIT-SUBMISSION-2026-11-13.md`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/SCF-46-RFP2-XDR-AUDIT-SUBMISSION-2026-11-13.md) |
-| **The RFP's mandatory reviewability gate** — draft manifest schema + sample corpus entries + offline deterministic reproduction of a sighting class named by the RFP itself (`js-stellar-sdk#1766` ordering divergence: strkey-string order vs XDR-byte order genuinely disagree), with a CRC negative control | [`scripts/scf-rfp2-sighting-repro.mjs`](https://github.com/coreguard-global/CoreGuard/blob/main/scripts/scf-rfp2-sighting-repro.mjs) (offline · no keys · no network) · [`docs/evidence/scf-rfp2-sighting-repro.json`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/evidence/scf-rfp2-sighting-repro.json) |
-| **Interest-form status (measured on the SCF dashboard, 2026-11-14)** | Submitted **2026-11-06/07** — before the RFPs opened — and **under review**; the platform enforces **one interest form per cycle** (button disabled: *"You already have an interest under review"*); **RFP Track — RFP 2 interest flagged in the Stellar Developers Discord `#scf-general`** (2026-11-14); the handbook's second official channel is `communityfund@stellar.org` |
-| **Honest boundary (standing, non-negotiable)** | The M0–M5 deliverables — per-CAP corpus, replay harness, JS/Go/Rust conformance runner, Go linter, indexer-hardening guide, wallet-backend findings — are the **proposed funded work itself, not built**; *"submitted"* is the only publishable fact; funding **$0** until an award lands; no endorsement, adoption or partnership claimed anywhere |
-
-**60-second reviewer path:** clone [CoreGuard](https://github.com/coreguard-global/CoreGuard) → `npm install` → `node scripts/scf-rfp2-sighting-repro.mjs` → read the instrument's Part B.
-
----
-
-## Canonical measured state (committed, re-derivable)
-
-| Metric | Value | Source |
-|---|---:|---|
-| npm tests | **1857 / 1857 pass** (machine-pinned) | [`docs/state-snapshot.json`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/state-snapshot.json) · [`docs/STATUS.md`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md) |
-| Boundary audit | **1397 files · 0 violations** | [`docs/state-snapshot.json`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/state-snapshot.json) |
-| Docs-node contract | **133 executed · 82 skip-listed · 30 covered** | [`docs/state-snapshot.json`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/state-snapshot.json) |
-| Foundry (contracts, Core DAO lane) | **43 / 43 pass** (CI-measured) | [CI](https://github.com/coreguard-global/CoreGuard/actions/workflows/ci.yml) · [`docs/STATUS.md`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md) |
-| Claims audit | **PASS** | [`docs/claims-registry.json`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/claims-registry.json) |
-
-> Every number above is CI-measured on every push and pinned as a re-derivable artifact. A claim without a replayable artifact is a red flag, not a feature.
-
-## The Trinity — one ladder, seven rungs, pinned per ecosystem
-
-| Network | Entry / executed evidence (honest) | Status |
+| Component | Question it answers | What ships |
 |---|---|---|
-| **Core DAO** | Commitment anchors on **Core Mainnet (chainId 1116)**: V1 `0x037dF08F2d43c5D03759279Fe35664f6AFf9EA6E`, V2 `0x66268a47e81b8f657798d7b5bbedc956df7b13fd`, Gate 4.1 intent committed (governance pending where stated). **Evidence Registry proofs hardened:** Foundry **invariant + fuzz** suite (deterministic seed/config, invariants run as the test contract’s own actions), **43/43 pass** CI-measured. No new broadcast claimed. | **LIVE / RECORDED** |
-| **Stellar** | Soroban anchor **MAINNET DEPLOYED** (`CCKA2GYVILX7YZVSXGVIHOPNLTRBBF2SSWKBTQBIE7M67N5N2QMMXPSP`) · first commitment-anchor CALL **INVOKED** (tx `69044807…9fec`, ledger **65,337,373**, read-back exact) · first **SIGNED funded DEX swap CONFIRMED** (owner-authorized `pathPaymentStrictSend`, tx `ac2a7990…9097`, ledger **65,338,112**; `4.0598146 XLM → 0.6306239 USDC`) · **STELLAR-AGENT/1**, **DEX-GATE/1** (real mainnet order book) and **universal DApp-shield** arms **EXECUTED** with committed artifacts · Phase 5 owner-authorized Soroban deploy lane **LIVE-VERIFIED** (create ledger **65408001**, balance exact, readback `SIMULATED_NONE`) · Soroban **authorized lane** (`commit_authorized`, owner-gated, additive to deployed/1 ABI) · **AGENT-GATE/1 signed-envelope lane** + **PSAR/1 pre-sign authorization receipts** built/test-executed (integration **NOT_BUILT**) · **Freighter `#3087`** technical evaluation comment **POSTED** (no endorsement/merge/adoption) · **SCF #46 RFP-2** (XDR/CAP audit kit) **SUBMISSION-READY** — interest under review, measured 2026-11-14 | **MAINNET LIVE / EXECUTED · integration NOT_BUILT (new surfaces)** |
-| **Pi Network** | Browser DApps · Pi Wallet · Pi Commerce surfaces kept consistent with the cross-network truth table and committed records. No Pi mainnet transaction, no anchor deployment, no live integration, no signed pilot, no customer, no revenue. | **PREPARED / DRY_RUN / PLAN_ONLY** |
+| **Authorization Firewall** | Is this the thing that was approved, byte for byte? | Signed authorization bound to the exact transaction bytes |
+| **Execution Verification** | Did what ran match what was signed? | `PASS`, or `BLOCK` with a named reason — never a score |
+| **Verifiable Consent Receipts** | Can an outsider check it later? | Artifact + offline verifier: no secret, no network, no trust in us |
 
-## Recent developments (Nov 10–14 2026) — by network, evidenced
+`UNKNOWN` is never success. The operation halts or holds until evidence closes
+it — in the product and in how we report on ourselves.
 
-> Mapped from committed work on `main` (Nov 10–14 2026). Items are labeled by honest status; **VERIFIED ≠ SAFE**; a proposal/comment/demo is **not** adoption, partnership, endorsement, or a security audit.
+## Markets
 
-### Stellar — receipts, signed-envelope agent gate, Freighter evaluation, DEX integration
+| Market | The problem | CoreGuard supplies |
+|---|---|---|
+| **AI Agents** | The agent executes an action that was not intended | Authorization & Execution Gate |
+| **Wallets** | Approval and execution diverge | Transaction Verification |
+| **DeFi / DEX** | Execution risk on swaps and conditions | DEX Execution Verification |
+| **Escrow** | Disputes over whether an obligation was executed | Verifiable Receipts |
+| **Agentic Commerce** | Agent purchases without consent or payment evidence | Consent & Payment Evidence |
+| **FinTech** | Proving process integrity to an auditor | Execution Audit Trail |
 
-| Development | What landed (committed) | Honest status | Evidence |
-|---|---|---|---|
-| **SCF #46 RFP-2 submission kit (XDR/CAP-Coverage Audit Tool + Indexer-Hardening Guide)** | Dated paste-ready instrument (interest-form answers + full technical annex mapping every RFP deliverable to its quoted acceptance check, milestones M0–M5, architecture diagram, draft manifest schema v0, sample corpus entries, honest familiarity statement incl. *"no indexer authored yet"*) + committed offline reproduction evidence: the `js-stellar-sdk#1766` ordering-divergence class (strkey-string order vs XDR-byte order genuinely disagree) reproduced deterministically + 4 byte-round-trip-verified corpus entries + CRC negative control, no key material committed. | **SUBMISSION-READY — interest form submitted 2026-11-06/07 (before the RFPs opened) and under review; one interest per cycle enforced (measured on the dashboard 2026-11-14); RFP Track — RFP 2 flagged in `#scf-general`; funding $0 until awarded; "submitted" is the only publishable fact** | [`docs/SCF-46-RFP2-XDR-AUDIT-SUBMISSION-2026-11-13.md`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/SCF-46-RFP2-XDR-AUDIT-SUBMISSION-2026-11-13.md) · [`scripts/scf-rfp2-sighting-repro.mjs`](https://github.com/coreguard-global/CoreGuard/blob/main/scripts/scf-rfp2-sighting-repro.mjs) · [`docs/evidence/scf-rfp2-sighting-repro.json`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/evidence/scf-rfp2-sighting-repro.json) |
-| **PSAR/1 pre-sign authorization receipts** | Receipt bound to the **exact transaction XDR bytes before any signature exists** (sha256 + Ed25519 over canonical JSON, pinned issuer key, injected clock/window). Fail-closed **`PASS` / `BLOCK`**, **11 frozen reject codes**, `executionProof: NOT_INCLUDED` on every verdict. No XDR semantic/content decode in v1 (semantic check = PSAR/2); unsigned-envelope/network boundary explicit. Offline demo: `npm run stellar:presign`. Hardened (issuer identity/proven key equality, safe window integers, hostile-input fail-closed) + project critical self-review. **90s presentation demo video** (visual replay of captured clean-clone demo output, **not** a live screen recording). | **BUILT · TEST_EXECUTED · integration NOT_BUILT** | `packages/stellar/presign.mjs`, `test/integrations/stellar-presign.test.mjs`, `examples/stellar-presign/demo.mjs`, [`docs/psar-security-review-2026-11-12.md`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/psar-security-review-2026-11-12.md), [`docs/freighter-presign-integration-proposal-2026-11-12.md`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/freighter-presign-integration-proposal-2026-11-12.md), `docs/surface-status.json` (`stellar-presign-receipt`) |
-| **Freighter `#3087` technical evaluation (posted, recorded)** | Scoped feasibility/boundaries comment (technical evaluation only) posted after explicit owner approval and recorded in STATUS/outreach ledger. | **COMMENT POSTED** — **no endorsement, no merge, no adoption** | [stellar/freighter#3087 comment](https://github.com/stellar/freighter/issues/3087#issuecomment-6834273239) |
-| **AGENT-GATE/1 signed-envelope lane** | Three-axis status unification; `AGENT-XDR/1` envelope build/decode; Freighter adapter contract (incl. swapped-bytes refusal); verifier CLI (exit 0/2/3/4) + in-process bench artifact; **authorized intent bound to signed envelope bytes field-by-field**; real **testnet signature** carried through the lane (committed evidence); runnable **browser demo** for a judge; Freighter **extension-signature attestation/promotion** path (writes evidence only after server-verified Ed25519 by the declared key). No real Freighter extension signed in CI. | **BUILT / TEST_EXECUTED (per surface) · integration NOT_BUILT** | [`docs/AGENT-PAYMENT-GATE.md`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/AGENT-PAYMENT-GATE.md), [`docs/STELLAR-STATUS-UNIFICATION.md`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STELLAR-STATUS-UNIFICATION.md), `packages/agent-gate/`, `docs/evidence/agent-gate-testnet-signature.json`, `docs/evidence/agent-gate-bench.json`, `examples/agent-gate-browser/`, `scripts/agent-gate-freighter-attest.mjs`, `docs/surface-status.json` |
-| **Stellar DEX integration example (Soroban swap + gates)** | End-to-end example: Soroban swap calls gated by **DEX-GATE/1** and **DDE/1** fail-closed escrow; runnable offline/testnet-verified flow. | **TESTNET/OFFLINE VERIFIED (example)** | `examples/stellar-dex-integration/` (`dex-gate.mjs`, `run-dex-swap.mjs`, `verify-offline.mjs`, `test.mjs`) |
-| **Executed Stellar mainnet evidence (context, unchanged)** | Soroban commitment anchor deployed; first `commit` CALL **INVOKED**; first signed funded DEX swap **CONFIRMED** (owner-authorized, gated preflight); agent/DEX/shield gate surfaces executed with digest-checked artifacts. Later signed money-moving sweeps remain credential-gated by design. | **EXECUTED / MAINNET VERIFIED (as recorded)** | [`docs/EVIDENCE-MATRIX.md`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/EVIDENCE-MATRIX.md), `docs/evidence/stellar-soroban-commit-executed.json`, `docs/evidence/stellar-dex-swap-executed.json`, `docs/evidence/stellar-agent-gate-executed.json`, `docs/evidence/stellar-dex-gate-executed.json`, `docs/evidence/universal-dapp-shield-executed.json` |
+**Beachhead:** AI agent payments and agentic commerce — the only segment where
+all three components already have code behind them and the buyer's pain is
+concrete. Wallets and DEXs are the second wave; enterprise policy packs third.
 
-### Core DAO — evidence-registry proofs & anchor truth
+> A previous version of this profile described the company as a layer "for Bitcoin
+> DeFi" while the repository said "for Stellar". Both were wrong as *identity*:
+> networks are integrations, not the company. Canonical statement:
+> [docs/POSITIONING.md](https://github.com/coreguard-global/CoreGuard/blob/main/docs/POSITIONING.md).
 
-| Development | What landed (committed) | Honest status | Evidence |
-|---|---|---|---|
-| **Invariant + fuzz proofs over the Evidence Registry (chain 1116 lane)** | Foundry invariant suite and fuzz properties over `EvidenceRegistry` contracts; deterministic seed/config in `foundry.toml`; invariants run as the test contract’s own actions (not a cheatcode target); Foundry count pinned to what `forge` actually reports; CI step executes invariant/fuzz tests. | **SHIPPED / CI-measured — Foundry 43/43 pass** | `.github/workflows/ci.yml`, `foundry.toml`, `test/contract/`, [`docs/STATUS.md`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md) |
-| **Core Mainnet anchors (recorded truth, unchanged claims)** | Live commitment anchors on **Core Mainnet (chainId 1116)** remain the recorded on-chain truth (V1/V2 and Gate 4.1 intent committed — governance pending where stated). No new broadcast claimed in this cycle. | **LIVE / recorded** | [`docs/STATUS.md`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md), [`docs/DEPLOYMENT.md`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/DEPLOYMENT.md) |
+## Where the evidence actually exists
 
-### Pi Network — consistency preserved (no status promotion)
+| Surface | Status (measured, re-derivable) |
+|---|---|
+| Engine + offline verifier (JS · Rust · WASM · C/Python) | BUILT · TEST_EXECUTED |
+| Suite on the committed tree | **1925/1925 tests**, CI-measured every push |
+| Boundary audit | **1446 files · 0 violations** |
+| Core DAO contracts | **43/43** Foundry proofs, CI-measured; evidence registry LIVE on mainnet |
+| Stellar mainnet | Soroban anchor `CCKA2GYV…QMMXPSP` (tx `69044807…`, ledger 65,337,373); first gated funded swap tx `ac2a7990…`, ledger 65,338,112 |
+| Independent reproduction | AER-1 / Zambo team reproduced the open pilot kit byte-for-byte on three machines — [ACP #328](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol/discussions/328) |
+| Authorized lane on mainnet · wallet integration | **NOT DEPLOYED · NOT BUILT** |
+| Customers · signed pilots · revenue · third-party audit | **ZERO · ZERO · ZERO · NOT PERFORMED** |
 
-| Development | What landed (committed) | Honest status | Evidence |
-|---|---|---|---|
-| **Cross-network docs/truth-table sync** | Pi Network killer-features, Trinity, and roadmap/product references kept consistent with the measured snapshot and cross-network truth table. No new Pi mainnet transaction, anchor deployment, live integration, signed pilot, customer, or revenue. | **PREPARED / DRY_RUN / PLAN_ONLY (unchanged)** | [`docs/PI-KILLER-FEATURES.md`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/PI-KILLER-FEATURES.md), [`docs/TRINITY-CORE-STELLAR-PI.md`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/TRINITY-CORE-STELLAR-PI.md) |
+`VERIFIED ≠ SAFE`. A verification result describes the checks performed on the
+evidence presented; it is not an audit, an endorsement, or a promise that an
+outcome is safe.
 
-## Products & services (shipped surfaces, honesty-labeled)
+## Funding status
 
-- **CGEP/1 execution-truth receipts:** intent → policy → commitment → receipt → independent verifier → anchor.
-- **Execution Firewall:** wrap actions (swap · lend · borrow · bridge · vote · agent proposal) with **ALLOW / DENY / HOLD** + verifiable commitment.
-- **Stellar (executed / shipped):** `packages/stellar` engine & gating, Soroban commitment anchor (deployed/invoked), **STELLAR-AGENT/1** and **DEX-GATE/1** executed surfaces, universal DApp shield arms, `examples/stellar-dex-integration/` (gated Soroban swap example).
-- **Stellar (built, integration NOT_BUILT):** **PSAR/1 pre-sign receipts** (`packages/stellar/presign.mjs`, `npm run stellar:presign`) and **AGENT-GATE/1 signed-envelope** lane (`packages/agent-gate/`, CLI/bench/demo/testnet-signature evidence) — no external wallet/extension adoption claimed.
-- **Core DAO:** on-chain commitment anchors (1116) and **Evidence Registry** with Foundry unit/invariant/fuzz coverage (43/43 CI-measured).
-- **DDE/1 / ESCROW/1:** dispute-boundary & delivery surfaces, including **ESCROW/1** bounty-escrow mirror and fail-closed escrow examples (as cataloged in [`docs/PRODUCTS.md`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/PRODUCTS.md)).
-- **Agent-commerce approval-binding (offline demo):** the ChatGPT Wallet moment (announced by OpenAI **2026-11-13**, built with American Express, Mastercard, Visa) mapped to the committed machinery — APPROVE → EXECUTE exact **VERIFIED** · post-approval total drift **INVALID** (field named) · merchant swap **INVALID** · record tamper **INVALID**; synthetic orders, zero keys, zero network. **No contact, integration or endorsement claimed** with OpenAI or any named provider. `examples/agent-commerce-approval-binding/` · dated instrument [`docs/agent-commerce-moment-chatgpt-wallet-2026-11-14.md`](https://github.com/coreguard-global/CoreGuard/blob/main/docs/agent-commerce-moment-chatgpt-wallet-2026-11-14.md).
-- **x402 reserve-before-sign, AgentProof, badges/claims/passports, contributor tooling:** shipped as committed modules/docs with explicit status labels (see catalog/STATUS).
+**$150,000 requested — not awarded** (SCF #46 Build Award), milestone-gated over
+four months: $40K for SDK v1, $55K for the authorized Soroban lane, $55K for two
+external pilots plus a closed independent review. Each tranche is released
+against an artifact a reviewer can inspect, not against elapsed time.
+
+- Full pack: [COREGUARD-INVESTMENT-READINESS.md](https://github.com/coreguard-global/CoreGuard/blob/main/COREGUARD-INVESTMENT-READINESS.md)
+- Application: [SCF-BUILD-APPLICATION-V3.md](https://github.com/coreguard-global/CoreGuard/blob/main/docs/SCF-BUILD-APPLICATION-V3.md)
+- Business model: [docs/BUSINESS-MODEL.md](https://github.com/coreguard-global/CoreGuard/blob/main/docs/BUSINESS-MODEL.md)
+
+## The organisation, on the record
+
+| | |
+|---|---|
+| **Team** | Founder: EslaM HeshAM (MR-X) — protocol & security. Three contractor roles named in the funded plan; no advisor or reviewer is described as engaged until a document exists. [docs/TEAM.md](https://github.com/coreguard-global/CoreGuard/blob/main/docs/TEAM.md) |
+| **Security reviews** | **No independent review performed.** Automated assurance, adversarial corpus and contract invariants run on every push; the review is budgeted, not bought. [docs/SECURITY-REVIEWS.md](https://github.com/coreguard-global/CoreGuard/blob/main/docs/SECURITY-REVIEWS.md) |
+| **Partnerships** | Actual: one independent technical reproduction, one public technical evaluation comment. Targets: wallets, DEXs, escrow, agentic AI, payment gateways, FinTech. [docs/PARTNERSHIPS.md](https://github.com/coreguard-global/CoreGuard/blob/main/docs/PARTNERSHIPS.md) |
+| **Roadmap** | Three phases with dates, deliverables and acceptance criteria. [ROADMAP.md](https://github.com/coreguard-global/CoreGuard/blob/main/ROADMAP.md) |
+| **Open source** | MIT core; the verifier stays free and offline-runnable; commercial value sits in operation, integration and support. |
 
 ## What we never claim
 
-**`UNKNOWN` stays HELD.** **VERIFIED ≠ SAFE.** Execution proof ≠ security audit. We do **not** claim revenue, customers, partnerships, funding awards, external adoption, third-party audit, or live wallet/extension integration unless a named, committed, replayable artifact states it. For Stellar: the Soroban anchor contract, first anchor CALL, and first signed funded gated swap are executed as recorded; Phase 5 live-verify and the authorized lane are evidenced as stated — later signed money-moving sweeps remain credential-gated by design; PSAR/1 and AGENT-GATE/1 integration surfaces remain **NOT_BUILT** (a posted comment/proposal/demo is not adoption). **Pi** remains **PREPARED / DRY_RUN / PLAN_ONLY**.
+- No revenue, no customers, no signed pilots, no partnerships, no audit, no
+  wallet integration, no mainnet deployment of the authorized lane.
+- A technical reproduction by an independent team is not a pilot, customer or
+  endorsement, and is never written as one.
+- Requested funding is not awarded funding.
+- No "prevents all exploits", no "100% secure", no probabilistic safety score.
 
-## Engage
+The repository enforces this: a claims registry with a ceiling rule, a boundary
+audit, and a scanner that fails CI when a document quotes a number the snapshot
+does not contain.
 
-1. **Integration pilots** — put the Execution Firewall in front of a real action flow.
-2. **Grant-funded builds** — Core DAO · Stellar · Pi Network program participation.
-3. **Strategic partnerships** — wallets · DEXs · exchanges · agents · auditors · insurers.
+## Start here
+
+| You are | Open |
+|---|---|
+| **Buyer / design partner** | [Product](https://github.com/coreguard-global/CoreGuard/blob/main/docs/PRODUCT.md) · [Pilot kit](https://github.com/coreguard-global/CoreGuard/blob/main/docs/PILOT-KIT.md) |
+| **Investor / funder** | [Investment readiness](https://github.com/coreguard-global/CoreGuard/blob/main/COREGUARD-INVESTMENT-READINESS.md) · [one screen](https://github.com/coreguard-global/CoreGuard/blob/main/docs/INVESTORS.md) |
+| **Security reviewer** | [Review status](https://github.com/coreguard-global/CoreGuard/blob/main/docs/SECURITY-REVIEWS.md) · [SECURITY.md](https://github.com/coreguard-global/CoreGuard/blob/main/SECURITY.md) |
+| **Engineer** | [Start here](https://github.com/coreguard-global/CoreGuard/blob/main/docs/START-HERE.md) · [Architecture](https://github.com/coreguard-global/CoreGuard/blob/main/docs/ARCHITECTURE.md) |
+| **Sceptic** | [Measured state](https://github.com/coreguard-global/CoreGuard/blob/main/docs/STATUS.md) · [Evidence](https://github.com/coreguard-global/CoreGuard/blob/main/docs/EVIDENCE.md) |
 
 <div align="center">
 
-**Founder** [EslaM-X](https://github.com/EslaM-X) · **GitHub** [coreguard-global](https://github.com/coreguard-global) · **CoreGuard repo** [coreguard-global/CoreGuard](https://github.com/coreguard-global/CoreGuard) · **LinkedIn** [coreguard-global](https://www.linkedin.com/company/coreguard-global) · **X** [CoreGuardGlobal](https://twitter.com/CoreGuardGlobal)
+**[CoreGuard repository →](https://github.com/coreguard-global/CoreGuard)** · **[Website](https://coreguard-trust-and-defense.lovable.app/)** · **[coreguardglobal@gmail.com](mailto:coreguardglobal@gmail.com)**
 
-<br>
-
-<sub>🛡 CoreGuard — VERIFY • PROTECT • EMPOWER · Core Orange `#FF8A00` · Deep Core `#0B0F14` · © 2026 coreguard-global · EslaM-X</sub>
+<sub>More than security. It's trust.</sub>
 
 </div>
-
