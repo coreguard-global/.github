@@ -84,8 +84,8 @@ concrete. Wallets and DEXs are the second wave; enterprise policy packs third.
 | Surface | Status (measured, re-derivable) |
 |---|---|
 | Engine + offline verifier (JS · Rust · WASM · C/Python) | BUILT · TEST_EXECUTED |
-| Suite on the committed tree | **1925/1925 tests**, CI-measured every push |
-| Boundary audit | **1446 files · 0 violations** |
+| Suite on the committed tree | **1955/1955 tests**, CI-measured every push |
+| Boundary audit | **1469 files · 0 violations** |
 | Core DAO contracts | **43/43** Foundry proofs, CI-measured; evidence registry LIVE on mainnet |
 | Stellar mainnet | Soroban anchor `CCKA2GYV…QMMXPSP` (tx `69044807…`, ledger 65,337,373); first gated funded swap tx `ac2a7990…`, ledger 65,338,112 |
 | Independent reproduction | AER-1 / Zambo team reproduced the open pilot kit byte-for-byte on three machines — [ACP #328](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol/discussions/328) |
